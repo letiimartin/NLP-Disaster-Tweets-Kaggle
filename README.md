@@ -1,6 +1,7 @@
 # NLP-Disaster-Tweets-Kaggle
 
 **Note: This project is ongoing and will be updated regularly with improvements and new findings.**
+
 My solution to Kaggle's 'NLP with Disaster Tweets' competition, using Python and NLP and ML libraries to classify tweets related to real disasters.
 
 
